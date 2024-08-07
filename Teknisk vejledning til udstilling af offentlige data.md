@@ -1,7 +1,5 @@
 # Teknisk vejledning til udstilling af offentlige data
 
-
-
 ## Baggrund om at udstille offentlige data
 
 Offentlige data bør som udgangspunkt stilles til rådighed for andre, som kan bruge dem. Det kan dog være svært på forhånd at sige, hvad et givet datasæt kan bruges til. Derfor satses der på at få udstillet så mange data som muligt med så lille en indsats som muligt og lade mere omfattende indsatser følge konkret efterspørgsel. Dette ligger også i tråd med Lov om videreanvendelse af den offentlige sektors informationer (PSI-loven) som på baggrund af et EU-direktiv foreskriver, at offentlige data så vidt muligt skal stilles til rådighed for videreanvendelse på konkret anmodning.
@@ -146,56 +144,3 @@ Endvidere har standardiseringsorganisationen W3C har udgivet vejledninger på en
 [http://www.w3.org/DesignIssues/GovData](http://www.w3.org/DesignIssues/GovData)
 
 [http://www.w3.org/TR/gov-data/](http://www.w3.org/TR/gov-data/)
-
-[Permanent URL til artiklen: https://arkitektur.digst.dk/node/1095](https://arkitektur.digst.dk/node/1095)
-
-[Tilbage til toppen](#top)
-
-Opdateret 17. august 2023
-
-DokumentinformationIndholdsfortegnelse
-
-* [Baggrund om at udstille offentlige data](#baggrund-om-at-udstille-offentlige-data)
-  * [Hvad får myndigheden ud af at udstille sine data?](#hvad-fr-myndigheden-ud-af-at-udstille-sine-data)
-  * [Hvilke data bør myndighederne udstille?](#hvilke-data-br-myndighederne-udstille)
-* [Hvilket format skal jeg bruge?](#hvilket-format-skal-jeg-bruge)
-* [Hvordan bruger jeg et givet format?](#hvordan-bruger-jeg-et-givet-format)
-  * [Webservices](#webservices)
-  * [Database](#database)
-  * [JSON](#json)
-  * [XML](#xml)
-  * [RDF](#rdf)
-  * [Regneark](#regneark)
-  * [Kommaseparerede filer](#kommaseparerede-filer)
-  * [Tekstdokument](#tekstdokument)
-  * [Scannet billede](#scannet-billede)
-  * [Proprietære formater](#proprietre-formater)
-  * [HTML](#html)
-* [Hvordan skal det dokumenteres?](#hvordan-skal-det-dokumenteres)
-* [Tjekliste](#tjekliste)
-
-Titel Teknisk vejledning til udstilling af offentlige data
-
-Seneste opdateringsdato
-
-17\. august 2023
-
-Arkitekturperspektiv
-
-Applikation
-
-Dokument beskrivelse
-
-Vejledningen har til formål at gøre det lidt lettere at få et overblik over, hvad der skal til for, at en offentlig myndighed kan udstille sine data til videre brug af andre myndigheder eller private virksomheder.
-
-FDA Status
-
-Færdig
-
-Produktlivscyklus
-
-Færdig
-
-Versionsnummer
-
-1.2
